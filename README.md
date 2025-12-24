@@ -1,9 +1,12 @@
-Program description
-  Program for calculate factorial and dobule factorial.
+## How to build the program?
 
-How do build the program? 
-  1. Visual Studio
-       Open file .sln in Visual Studio and press Ctrl+Shift+B.
-  2. Command line run
-       Make sure that you have the g++ compiler instaled.
-       after run in command line g++ main.cpp -o factorial.
+### 1. Using Visual Studio
+   - Create a new **Empty C++ Project** in Visual Studio.
+   - **Add** the `main.cpp` file from this repository to the project.
+   - Press **Ctrl+Shift+B** to build the project.
+
+### 2. Using the command line (with g++)
+   Make sure you have the **g++ compiler** installed.
+   Then run in the command line:
+   ```bash```
+   g++ main.cpp -o factorial
