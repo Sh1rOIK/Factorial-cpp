@@ -1,7 +1,5 @@
 #include <iostream>
 
-//просмотренно в 12:11 29.12.2025
-
 long long calculateFactorial(long long result) 
 {
     int factorial;
@@ -81,4 +79,5 @@ int main()
 
     return 0;
 }
+
 
